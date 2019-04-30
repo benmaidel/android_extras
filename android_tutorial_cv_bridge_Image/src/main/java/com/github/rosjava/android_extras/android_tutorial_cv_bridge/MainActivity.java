@@ -24,7 +24,7 @@ import org.ros.node.topic.Subscriber;
 
 import java.io.IOException;
 
-import cv_bridge.CvImage;
+import com.github.rosjava.android_extras.cv_bridge.CvImage;
 import sensor_msgs.Image;
 import sensor_msgs.ImageEncodings;
 

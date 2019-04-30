@@ -1,4 +1,4 @@
-package cv_bridge;
+package com.github.rosjava.android_extras.cv_bridge;
 
 import java.util.HashMap;
 import java.util.Map;

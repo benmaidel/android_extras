@@ -1,4 +1,4 @@
-package cv_bridge;
+package com.github.rosjava.android_extras.cv_bridge;
 
 import android.util.Pair;
 import android.util.SparseArray;
@@ -225,7 +225,7 @@ class ImEncoding
         if (lEncoding.equals(ImageEncodings.BAYER_BGGR8)) return Encoding.BAYER_BGGR;
         if (lEncoding.equals(ImageEncodings.BAYER_GBRG8)) return Encoding.BAYER_GBRG;
         if (lEncoding.equals(ImageEncodings.BAYER_GRBG8)) return Encoding.BAYER_GRBG;
-        
+
         // We don't support conversions to/from other types
         return Encoding.INVALID;
     }

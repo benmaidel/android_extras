@@ -1,4 +1,4 @@
-package cv_bridge;
+package com.github.rosjava.android_extras.cv_bridge;
 
 import org.jboss.netty.buffer.ChannelBuffer;
 import org.jboss.netty.buffer.ChannelBufferOutputStream;

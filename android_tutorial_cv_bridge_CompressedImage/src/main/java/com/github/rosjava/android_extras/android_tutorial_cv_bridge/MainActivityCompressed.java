@@ -22,8 +22,8 @@ import org.ros.node.NodeMainExecutor;
 import org.ros.node.topic.Publisher;
 import org.ros.node.topic.Subscriber;
 
-import cv_bridge.CvImage;
-import cv_bridge.Format;
+import com.github.rosjava.android_extras.cv_bridge.CvImage;
+import com.github.rosjava.android_extras.cv_bridge.Format;
 import sensor_msgs.CompressedImage;
 import sensor_msgs.ImageEncodings;
 

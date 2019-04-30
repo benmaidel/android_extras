@@ -22,7 +22,7 @@ include 'zxing'
 include "cv_bridge"
 
 include "android_tutorial_cv_bridge_Image"
-include "android_tutorial_cv_bridge_Image_javacv"
+//include "android_tutorial_cv_bridge_Image_javacv"
 include "android_tutorial_cv_bridge_CompressedImage"
-include "android_tutorial_cv_bridge_CompressedImage_javacv"
+//include "android_tutorial_cv_bridge_CompressedImage_javacv"
 
